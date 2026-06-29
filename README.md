@@ -217,7 +217,6 @@ Google Developer Group on Campus chapter at Eastern Mediterranean University, dr
 | 🎮 **Published Game Developer** | Shipped multiple titles under CaveMans Studio on itch.io |
 | 🌐 **GDG Campus Co-Organizer** | Led 50+ tech community initiatives at EMU |
 | 🏅 **Istanbul Education Summit** | Participant & Representative |
-| 💼 **TNC Group Career Program** | Accepted — UI/UX · Web Development · Mobile Track |
 | 🤖 **IBM ile Kodluyorum** | AI / LLM & Transformer Architecture Program |
 | 🔐 **CyberStart 2.0** | IBM Collaboration — Cybersecurity Program |
 | 🏆 **Game Jam Competitor** | Multiple competitive Game Jam participations |
@@ -241,9 +240,6 @@ Google Developer Group on Campus chapter at Eastern Mediterranean University, dr
 
 ![GDG](https://img.shields.io/badge/GDG%20on%20Campus%20Organizer-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**🟠 TNC Group**
-
-![TNC](https://img.shields.io/badge/TNC%20Software%20Career%20Dev%20Program-FF6B00?style=for-the-badge&logoColor=white)
 
 ---
 
