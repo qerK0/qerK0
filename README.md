@@ -95,22 +95,80 @@ I run **Plursus**, my indie game studio, and I'm on the outreach team of **GDND*
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🎮 CaveMans — Game Development Studio (2021–2022)</b></summary>
+<details open>
+<summary><b>🃏 KUT — Roguelike Card Game · Plursus</b></summary>
 <br/>
 
-My first indie studio — 3 PC games released on itch.io between 2021 and 2022. Led full development lifecycles from concept to distribution, applying industry-standard tools and optimization workflows.
+A Balatro-style roguelike deckbuilder built on **Amerikano**, the classic rummy-style card game. Leftover cards feed a **ledger ("defter") penalty system** that builds toward a limit — the game's signature mechanic. Deities from Egyptian, Greek and Turkic myth bend the rules at the table, and Old Turkic runes spell out their blessings.
 
-| Attribute | Details |
+| | |
 |:---|:---|
-| **Stack** | Unity · C# · Unreal Engine · Level Design |
-| **Scale** | Multi-platform PC & Web releases |
-| **Performance** | Optimized render pipelines and physics systems |
-| **Security** | Secure build distribution and asset integrity |
-| **Impact** | Published titles distributed via itch.io platform |
-| **Repository** | [itch.io/profile/cavemans](https://itch.io/profile/cavemans) |
+| **Stack** | Unity · C# |
+| **Platform** | PC (Windows) |
+| **Program** | GameDev.ist **Deep Jam '26** accelerator |
+| **Playtest** | 46 players at a live developer meetup |
+| **Status** | In development — UI/visual overhaul in progress |
+| **Page** | [plursus.itch.io/kut](https://plursus.itch.io/kut) |
 
-Architected and shipped complete game titles across multiple genres — handling mechanics programming, environment design, asset integration, and final publishing. Delivered polished prototypes under competitive Game Jam constraints, demonstrating rapid engineering execution under pressure.
+<br/>
+</details>
+
+<details>
+<summary><b>🏚️ İstanbul Afet Bölgesi — Civil Game Jam 2026</b></summary>
+<br/>
+
+48-hour jam game made at Civil Game Jam (ODTÜ KALTEV). A linear earthquake-escape game: get out of a 6th-floor apartment alive while AFAD alerts and aftershocks escalate — Henry Stickmin-style choices that teach what *not* to do in an earthquake.
+
+| | |
+|:---|:---|
+| **Stack** | Unity 6 · C# · 2.5D isometric |
+| **Team** | 3 people — I was the programmer and built the core mechanics |
+| **Build** | Windows, shipped within the 48h deadline |
+
+<br/>
+</details>
+
+<details>
+<summary><b>🌾 Cozy Farming Game · Plursus</b></summary>
+<br/>
+
+A small 2D farming game. Just plant, water and harvest. Nothing else. 🙂
+
+| | |
+|:---|:---|
+| **Stack** | Unity 6 · C# · 2D |
+| **Platform** | PC |
+| **Page** | [plursus.itch.io/cozy-harvest](https://plursus.itch.io/cozy-harvest) |
+
+<br/>
+</details>
+
+<details>
+<summary><b>⚔️ Plursus Arena — Viewer-Voted Gladiator Series (WIP)</b></summary>
+<br/>
+
+A turn-based pixel-art gladiator game built as an interactive series: AI plays the fights, LLM-driven bosses (Gemini / DeepSeek) adapt, and viewers vote on gear and life-or-death moments through Instagram polls. Deaths are permanent; items pass down to the next gladiator.
+
+| | |
+|:---|:---|
+| **Stack** | Unity · C# · LLM APIs · LPC pixel art |
+| **Platform** | PC, recorded for short-form video |
+| **Status** | In development |
+
+<br/>
+</details>
+
+<details>
+<summary><b>🎮 CaveMans — First Indie Studio (2021–2022)</b></summary>
+<br/>
+
+My first studio — 3 PC games released on itch.io:
+
+- **Ratio Errorem Gladius** — action, robot gladiator (Unreal Engine)
+- **AstroTest** — puzzle, spacesuit testing (Unreal Engine)
+- **There Is No Light** — puzzle, made for Atom Game Jam (Unity)
+
+Page: [itch.io/profile/cavemans](https://itch.io/profile/cavemans)
 
 <br/>
 </details>
@@ -143,7 +201,9 @@ Engineered a creative web application featuring an interactive fleeing-button UX
 #### Founder & Game Developer — Plursus
 `2026 – Present`
 
-My current indie game studio — building and shipping commercial PC games in Unity.
+My current indie game studio — building and shipping PC games in Unity. Games: **KUT** (GameDev.ist Deep Jam '26), **Cozy Farming Game**, **Plursus Arena** (WIP).
+
+[![itch.io](https://img.shields.io/badge/itch.io-plursus-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://plursus.itch.io)
 
 ---
 
@@ -202,7 +262,8 @@ Student-led entrepreneurship and innovation organization at Eastern Mediterranea
 | 🏅 **Istanbul Education Summit** | Participant & Representative |
 | 🤖 **IBM ile Kodluyorum** | AI / LLM & Transformer Architecture Program |
 | 🔐 **CyberStart 2.0** | IBM Collaboration — Cybersecurity Program |
-| 🏆 **Game Jam Competitor** | Multiple competitive Game Jam participations |
+| 🚀 **GameDev.ist Deep Jam '26** | Accepted into the 12-week game accelerator with KUT |
+| 🏆 **Game Jam Competitor** | Civil Game Jam 2026, Atom Game Jam and more |
 
 </div>
 
@@ -229,7 +290,8 @@ Student-led entrepreneurship and innovation organization at Eastern Mediterranea
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/qerK0)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/qerK0)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/qerK0)
-[![itch.io](https://img.shields.io/badge/itch.io%20%2F%20CaveMans-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/cavemans)
+[![itch.io Plursus](https://img.shields.io/badge/itch.io%20%2F%20Plursus-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://plursus.itch.io)
+[![itch.io CaveMans](https://img.shields.io/badge/itch.io%20%2F%20CaveMans-555555?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/cavemans)
 
 </div>
 
@@ -276,7 +338,8 @@ current_focus:
   building:
     - AI-powered developer tools and automation
     - Full-stack web applications with modern frameworks
-    - Game development projects in Unity & Unreal Engine
+    - KUT — roguelike card game (GameDev.ist Deep Jam '26)
+    - Plursus Arena — viewer-voted gladiator series
     - Open source contributions
   exploring:
     - Sports data analytics and prediction systems
@@ -300,7 +363,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalkanboramert@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bora-mert-kalkan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qerK0)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/cavemans)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://plursus.itch.io)
 
 </div>
 
